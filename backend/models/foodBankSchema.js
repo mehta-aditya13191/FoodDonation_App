@@ -8,6 +8,7 @@ const foodBankSchema = new mongoose.Schema({
   // Name of the food bank, required field
   name: { type: String, required: true },
   // Associated hospital, required field
+  // hospital: { type: String, required: true },
   hospital: { type: String, required: true },
   // Contact person, optional field
   contactPerson: { type: String },

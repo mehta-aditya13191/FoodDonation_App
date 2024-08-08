@@ -222,7 +222,7 @@ const Auth = (props) => {
                     : "Add Your Foodbank"
                   : handle === "donor"
                   ? "Donor"
-                  : "Patient"}{" "}
+                  : "Needer"}{" "}
                 {handle !== "bank" && (auth === 0 ? "Sign Up" : "Log In")}&nbsp;
               </legend>
               <legend align="right">
