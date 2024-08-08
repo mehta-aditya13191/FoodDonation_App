@@ -46,14 +46,11 @@ const foodBankSchema = new mongoose.Schema({
   ],
   // Stock levels for various food items, default to 0
   stock: {
-    rice: { type: Number, default: 0 },
-    wheat: { type: Number, default: 0 },
-    vegetables: { type: Number, default: 0 },
-    fruits: { type: Number, default: 0 },
-    dairy: { type: Number, default: 0 },
-    meat: { type: Number, default: 0 },
-    fish: { type: Number, default: 0 },
-    snacks: { type: Number, default: 0 },
+    "Non-Perishable Food": { type: Number, default: 0 },
+    "Perishable Food": { type: Number, default: 0 },
+    "Prepared Food": { type: Number, default: 0 },
+    "Baby Food and Formula": { type: Number, default: 0 },
+    "Snacks and Beverages": { type: Number, default: 0 },
   },
 });
 
