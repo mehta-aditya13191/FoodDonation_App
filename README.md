@@ -1,6 +1,8 @@
 # 🍲 Food Donation Platform
 The Food Donation Platform is a community-driven application designed to connect donors with individuals in need of food. It allows users to donate, request, and track food donations, all while ensuring secure communication and a seamless user experience.
 
+---
+
 ## ✨ Key Features
 
 ### 👤 User Management:
@@ -9,7 +11,6 @@ The Food Donation Platform is a community-driven application designed to connect
 - **🎨 Profile Customization:** Users can customize their profile with an avatar, cover image, and personal information.
 - **👥 Role-based Access:** Different roles for admins and regular users, ensuring proper access to functionalities.
 
----
 
 ### 🍽️ Food Donation Management:
 
@@ -17,21 +18,20 @@ The Food Donation Platform is a community-driven application designed to connect
 -**📈 Donation Tracking:** Users can track the status of their donations (requested, pending, delivered).
 -**❌ Donation Cancellation:** Donors can cancel their donations, and the platform automatically updates the status.
 
----
+
 
 ### 🔍 Search & Navigation:
 
 -**🔎 Donation Search:** Users can search for available donations by location, food type, or other filters.
 -**📃 Donation Listings:** Browse a list of food donations with details like quantity, location, and donation status.
 
----
 
 ### 💬 Interaction:
 
 -**🤝 Requests:** Users can request food donations, and donors can confirm or reject requests.
 -**💬 Comments & Feedback:** Donors and recipients can interact by leaving feedback or comments on donation listings.
 
----
+
 
 ### 📊 Admin Dashboard:
 
